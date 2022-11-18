@@ -1,0 +1,27 @@
+{
+  "name": "7.2node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint",
+    "prettier": "prettier"
+    
+  },
+  "devDependencies": {
+    "eslint": "7.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanKZN/7.2Node.js.git"
+  },
+  "author": "Roman Medvedev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanKZN/7.2Node.js/issues"
+  },
+  "homepage": "https://github.com/RomanKZN/7.2Node.js#readme",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}
